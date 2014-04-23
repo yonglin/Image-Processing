@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mi/!svn/ver/8684/tbmi26/course_contents/assignments/ToBePublished/boosting
+END
+ExtractHaarFeatures.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mi/!svn/ver/8684/tbmi26/course_contents/assignments/ToBePublished/boosting/ExtractHaarFeatures.m
+END
+faces.mat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mi/!svn/ver/8684/tbmi26/course_contents/assignments/ToBePublished/boosting/faces.mat
+END
+GenerateHaarFeatureMasks.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mi/!svn/ver/8684/tbmi26/course_contents/assignments/ToBePublished/boosting/GenerateHaarFeatureMasks.m
+END
+nonfaces.mat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mi/!svn/ver/8684/tbmi26/course_contents/assignments/ToBePublished/boosting/nonfaces.mat
+END
